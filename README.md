@@ -1,4 +1,4 @@
-# what's this
+# About
 
 Node.js Telegram Bot Template - if you live in Iran or Russia and has troubles connecting to Telegram servers this project might be what you're looking for.
 
